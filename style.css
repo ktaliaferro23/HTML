@@ -4,6 +4,7 @@ font-family:sans-serif;
   
 }
 li{
+    font-color:black;
   border: 3px solid black;
  position: relative;
   top: 50px;
@@ -12,6 +13,7 @@ li{
 
 }
 h1{
+    font-color:black;
  font-family: sans-serif;
   font-size: 50px;
   margin-left: auto;
@@ -21,6 +23,7 @@ h1{
 
 }
 h3{
+  font-color:black;
  font-family: sans-serif;
   font-size: 50px;
   margin-left: auto;
@@ -34,6 +37,7 @@ h3{
   text-align: center;
 }
 .navigation li {
+    font-color:black;
   font-family:sans-serif
    font-weight: 200;
   letter-spacing: 6px;
@@ -47,6 +51,7 @@ h3{
   width: 15%;
 }
 .content {
+    font-color:black;
  border: 3px solid black;
  position: relative;
   top: 400px;
