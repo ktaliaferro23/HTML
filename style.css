@@ -26,7 +26,7 @@ h3{
   margin-left: auto;
   margin-right: auto;
     letter-spacing: 6px;
-  position: relative
+  position: bottom;
 }
 .navigation ul {
   margin: 0;
