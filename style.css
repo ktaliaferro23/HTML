@@ -1,12 +1,7 @@
 body{
 
 font-family:sans-serif;
-   border: 3px solid black;
- position: relative;
-  top: 400px;
-  width: 1000px;
-    margin: auto;
-
+  
 }
 li{
   border: 3px solid black;
@@ -36,4 +31,12 @@ h1{
   margin-left: auto;
   margin-right: auto;
   width: 15%;
+}
+.content
+{
+ border: 3px solid black;
+ position: relative;
+  top: 400px;
+  width: 1000px;
+    margin: auto;
 }
