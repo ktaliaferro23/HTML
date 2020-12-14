@@ -17,7 +17,6 @@ h1{
   margin-left: auto;
   margin-right: auto;
     letter-spacing: 6px;
-  margin-bottom: -20rem;
 
 
 }
@@ -45,4 +44,6 @@ h1{
   top: 400px;
   width: 1000px;
     margin: auto;
+    margin-top: -20rem;
+
 }
