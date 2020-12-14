@@ -3,15 +3,20 @@ body{
 font-family:sans-serif;
 }
 
-p{
-            font-family:Arial;
-            color:black;
-            
-         }
+.navigation ul {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+.navigation li{
+   font-weight: 200;
+  letter-spacing: 6px;
+}
+
 #banner {
   background-image: url("https://d11jve6usk2wa9.cloudfront.net/platform/31037/assets/logo.png");
   background-size: cover;
-  background-position:  center;
+  background-position: center;
   height: 1000px;
   width: 100%;
 }
