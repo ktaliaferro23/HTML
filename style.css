@@ -22,7 +22,7 @@ li{
 }
 
 #banner {
-  background-image: url("https://d11jve6usk2wa9.cloudfront.net/platform/31037/assets/logo.png");
+  url("https://d11jve6usk2wa9.cloudfront.net/platform/31037/assets/logo.png");
   background-position: top center;
   height: 800px;
   width: 100%;
