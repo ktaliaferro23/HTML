@@ -1,5 +1,17 @@
- p{
+body{
+ backgorund-color: white
+font-family:sans-serif;
+}
+
+p{
             font-family:Arial;
-            color:red;
+            color:black;
             
          }
+#banner {
+  background-image: url("https://d11jve6usk2wa9.cloudfront.net/platform/31037/assets/logo.png");
+  background-size: cover;
+  background-position:  center;
+  height: 500px;
+  width: 100%;
+}
