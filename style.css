@@ -1,8 +1,12 @@
 body{
 
 font-family:sans-serif;
+  
 }
+li{
+  border: 3px solid red;
 
+}
 .navigation ul {
   margin: 0;
   padding: 0;
@@ -16,8 +20,8 @@ font-family:sans-serif;
 #banner {
   background-image: url("https://d11jve6usk2wa9.cloudfront.net/platform/31037/assets/logo.png");
   background-size: cover;
-  background-position: center;
-  height: 1000px;
+  background-position: top center;
+  height: 800px;
   width: 100%;
 }
 
